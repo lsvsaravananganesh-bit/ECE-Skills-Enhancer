@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SkillSphere",
+  "description": "Dedicated career and learning platform built specifically for Electronics and Communication Engineering (ECE) students — featuring VLSI & RTL, Embedded Systems, Semiconductor Placements, Hardware Coding, and Lab Gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
